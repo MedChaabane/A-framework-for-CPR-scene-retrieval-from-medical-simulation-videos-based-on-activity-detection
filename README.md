@@ -1,9 +1,9 @@
 # A-framework-for-CPR-scene-retrieval-from-medical-simulation-videos-based-on-activity-detection
 
-#Keywords:
+# Keywords:
 Video segmentation , Region of interest extraction , Face detection , Spatio-temporal histogram of oriented gradients - HOG3D , Local binary patterns - three orthogonal planes - LBP-TOP , 3D Scale-invariant feature transform (SIFT-3D) , Classifier fusion
 
-#Abstract:
+# Abstract:
 Medical simulations, where uncommon clinical situations can be replicated, have
 proved to provide a more comprehensive training. Simulations involve the use of
 patient simulators, which are lifelike mannequins. After each session, the physician
@@ -29,4 +29,4 @@ decide finally for each video volume if it belongs to CPR scene or not.
 The proposed framework is tested and validated using two simulation videos and
 the experimental results are presented.
 
-#The code is available on reasonable request
+# The code is available on reasonable request
