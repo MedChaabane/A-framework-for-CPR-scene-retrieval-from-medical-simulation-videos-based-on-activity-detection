@@ -1,0 +1,1 @@
+# A-framework-for-CPR-scene-retrieval-from-medical-simulation-videos-based-on-activity-detection
