@@ -31,3 +31,17 @@ the experimental results are presented.
 
 # The code is available on reasonable request (Matlab)
  
+
+![img3](https://github.com/MohamedChaabane2/A-framework-for-CPR-scene-retrieval-from-medical-simulation-videos-based-on-activity-detection/blob/master/fig/cpr1.png)
+
+
+![img3](https://github.com/MohamedChaabane2/A-framework-for-CPR-scene-retrieval-from-medical-simulation-videos-based-on-activity-detection/blob/master/fig/cpr2.png)
+
+
+![img3](https://github.com/MohamedChaabane2/A-framework-for-CPR-scene-retrieval-from-medical-simulation-videos-based-on-activity-detection/blob/master/fig/cpr3.png)
+
+
+![img3](https://github.com/MohamedChaabane2/A-framework-for-CPR-scene-retrieval-from-medical-simulation-videos-based-on-activity-detection/blob/master/fig/cpr4.png)
+
+
+![img3](https://github.com/MohamedChaabane2/A-framework-for-CPR-scene-retrieval-from-medical-simulation-videos-based-on-activity-detection/blob/master/fig/cpr5.png)
